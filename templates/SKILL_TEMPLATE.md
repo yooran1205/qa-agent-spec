@@ -41,3 +41,16 @@ depends_on: []        # 前置 Skill / 能力，没有就留空
 
 ## Examples
 见 `examples/`。
+
+## Changelog（可选，成熟 Skill 建议保留）
+- v0.1 <初版做了什么>
+
+## Self-Evaluation（可选，成熟 Skill 建议保留）
+对照 [`spec/evaluation.md`](../../spec/evaluation.md) 自评，总分决定 metadata 的 maturity。
+| 维度 | 分 | 依据 |
+|---|---|---|
+| 完整性 | ?/2 | |
+| 触发准确 | ?/2 | |
+| 输入契约 | ?/2 | |
+| 失败模式 | ?/2 | |
+| 可复现 | ?/2 | |
